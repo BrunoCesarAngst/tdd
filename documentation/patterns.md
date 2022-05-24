@@ -11,6 +11,7 @@
 - Small commits
 - System under test (SUT)
 - Strategy pattern
+- Factory pattern
 
 ## Anti-Patterns and Code smalls
 
@@ -23,3 +24,6 @@
 - Test code in production
 - Duplicate code
 - Shotgun surgery
+- Long parameter list
+- Primitive obsession
+- Bad naming
