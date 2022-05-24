@@ -1,0 +1,5 @@
+/.DS_Store
+/.history
+/.vscode
+/newrelic_agent.log
+/node_modules
